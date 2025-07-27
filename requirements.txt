@@ -2,4 +2,5 @@ streamlit
 ffmpeg-python
 pydub
 dotenv
+obs-websocket-py
 obsws-python
