@@ -1,3 +1,5 @@
 streamlit
 ffmpeg-python
 pydub
+dotenv
+obsws-python
